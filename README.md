@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Veds, a full-time bot developer 👨‍💻 working remotely since 2017</div>  
   
 
